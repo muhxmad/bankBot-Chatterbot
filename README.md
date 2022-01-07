@@ -15,5 +15,5 @@
 - server.py sends back message to the client.
 - Still Working in Progress with adding text-to-speech feature
 ## How to run
-Go to Chatbot_Project directory and run python server.py.
+Run python server.py.
 Above step will open the server. Now right click the index.html page and open with brower. You will be able to see the chat window where you can start the conversation.
