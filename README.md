@@ -1,12 +1,13 @@
 # bankBot-Chatterbot
-## _Welcome to ChatBot_
+## _Welcome to ChatBot of simple usage of chatterbot_
 ## _Members:_
-MUHAMMAD FAHMI BIN KAMARUDDIN B031910259
-FAIRUZ HAZMAN BIN MAHAD       B031910270
-MOHAMAD SAMUDRA NUSANTARA     B031910454
-ALI ABDULLAH ALI ABDULLAH ALHUSAM B031910502
-MOHAMMED SADEQ NOMAN          B031910498
-
+| Name | No Matric |
+| ------ | ------ |
+| MUHAMMAD FAHMI BIN KAMARUDDIN | B031910259|
+| FAIRUZ HAZMAN BIN MAHAD   | B031910270|
+| MOHAMAD SAMUDRA NUSANTARA | B031910454|
+| ALI ABDULLAH ALI ABDULLAH ALHUSAM | B031910502|
+| MOHAMMED SADEQ NOMAN  |  B031910498 |
 ## ChatBot with interactive UI using simple web socket server
 - Chatbot_train.py file trains the data available in the data folder. Once it is trained , the result will be stored as - db.sqlite.
 - Chatbot.py uses this db.sqlite to generate responses for user queries.
