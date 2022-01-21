@@ -1,13 +1,6 @@
 # bankBot-Chatterbot
 ## _Welcome to ChatBot of simple usage of chatterbot_
-## _Members:_
-| Name | No Matric |
-| ------ | ------ |
-| MUHAMMAD FAHMI BIN KAMARUDDIN | B031910259|
-| FAIRUZ HAZMAN BIN MAHAD   | B031910270|
-| MOHAMAD SAMUDRA NUSANTARA | B031910454|
-| ALI ABDULLAH ALI ABDULLAH ALHUSAM | B031910502|
-| MOHAMMED SADEQ NOMAN  |  B031910498 |
+
 
 ## ChatBot with interactive UI using simple web socket server
 - Chatbot_train.py file trains the data available in the data folder. Once it is trained , the result will be stored as - db.sqlite.
@@ -28,11 +21,13 @@ During the old times, people have been making inquiries related to banking by go
 >Project name: BANKING SERVICE CHATBOT.
 
 Team Members:
-- Muhammad Fahmi bin Kamaruddin
-- Fairuz Hazman bin Mahad
-- Mohamad Samudra Nusantara
-- Ali Abdullah Al Husam
-- MOHAMMED SADEQ NOMAN
+| Name | No Matric |
+| ------ | ------ |
+| MUHAMMAD FAHMI BIN KAMARUDDIN | B031910259|
+| FAIRUZ HAZMAN BIN MAHAD   | B031910270|
+| MOHAMAD SAMUDRA NUSANTARA | B031910454|
+| ALI ABDULLAH ALI ABDULLAH ALHUSAM | B031910502|
+| MOHAMMED SADEQ NOMAN  |  B031910498 |
 	
 2.1 Objectives
 To train a model with banking-related questions as training data.
