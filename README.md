@@ -48,3 +48,8 @@ To create a website and implement the chatbot in it.
 |  Quality|Prediction of words that aren't correct | When we do testing| We will use more data to train the system. |
 |Cost| Internet use is quite high.|When we train the system continuously.|Discuss the use of the internet with the sponsor.|
 |Time|Time to scrap the data|When we train the data.|Use a different method instead of scraping.|
+
+
+## Project Video Presentation
+
+
