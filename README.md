@@ -29,15 +29,16 @@ Team Members:
 | ALI ABDULLAH ALI ABDULLAH ALHUSAM | B031910502|Risk Manager|
 | MOHAMMED SADEQ NOMAN  |  B031910498 |Quality Manager|
 	
-2.1 Objectives</br>
+Objectives</br>
 To train a model with banking-related questions as training data.
 To create a chatbot that answers any banking-related questions.
 To create a website and implement the chatbot in it.
 
 ## Project Management Life-Cycle
+Responsibility Assignment Matrices (RAM) </br>
+<img src="ram.JPG" alt="ram"/>
 
-
-2.2 Risk Identification Chart (Quality, Cost, Time)</br>
+Risk Identification Chart (Quality, Cost, Time)</br>
 |Control Element |What is likely to go wrong?|How and when will I know?|What will I do about it?|
 | ------ | ------ |------ |------ |
 |  Quality|Prediction of words that aren't correct | When we do testing| We will use more data to train the system. |
@@ -52,13 +53,13 @@ Project Webpage Design</br>
 </div>
 </br>
 <div align="center">
-Code for training dataset</br>
+Training Dataset</br>
 <img src="/video/chatbotTrain.png" alt="trainCode"/>
 <p>This code is for training the model. It takes data from the training datasets of compiled questions in YML files located in the “data” folder. Once it is trained, the results are stored as db.sqlite.</p>
 </div>
 </br>
 <div align="center">
-Code for generating responses to queries (chatbot.py)</br>
+Generating Responses To Queries (chatbot.py)</br>
 <img src="/video/chatbot1.png" alt="coding1"/>
 <img src="/video/chatbot2.png" alt="coding2"/>
 <img src="/video/chatbot3.png" alt="coding3"/>
@@ -71,8 +72,9 @@ Code for generating responses to queries (chatbot.py)</br>
 </div>
 </br>
 <div align="center">
- Code for connecting chatbot to server (server.py)</br>
+Connecting Chatbot to Web Server (server.py)</br>
 <img src="/video/server.png" alt="server"/>
+<p>This code allowed connection the chatbot to the server without use of xampp source so that the system can be used in the web browser anytime as long the server is open.</p>
 </div></br>
 
 ## Project Video Presentation
