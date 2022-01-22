@@ -1,3 +1,4 @@
+<img src="Logo.JPG" alt="logo"/></br>
 # bankBot-Chatterbot
 ## _Welcome to ChatBot of simple usage of chatterbot_
 
