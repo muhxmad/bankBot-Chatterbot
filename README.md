@@ -46,6 +46,7 @@ To create a website and implement the chatbot in it.
 
 
 ## Project Video Presentation
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mGz3YAYn5CQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div align="center">
+  <a href="https://youtu.be/mGz3YAYn5CQ"><img src="https://img.youtube.com/vi/mGz3YAYn5CQ/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
